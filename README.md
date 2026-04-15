@@ -4,7 +4,7 @@
 [![Flask](https://img.shields.io/badge/flask-2.3.3-lightgrey)](https://flask.palletsprojects.com/)
 [![Gemini AI](https://img.shields.io/badge/Gemini-2.0_Flash-orange)](https://ai.google.dev/gemini-api)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind-CSS-38B2AC)](https://tailwindcss.com/)
-[![Render](https://img.shields.io/badge/Render-Deployed-46E3B7)](https://render.com)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue)](https://www.typescriptlang.org/)
 
 **FinAid Buddy** is a free, empathetic financial advisor web app built for students, daily wage workers, and low‑income families in India. It uses Google Gemini 2.0 Flash to deliver actionable budgeting advice, expense tracking, and personalised saving tips – all with a warm, accessible interface (Hinglish + English).
 
