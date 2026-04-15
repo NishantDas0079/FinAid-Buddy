@@ -1,0 +1,5 @@
+{
+  "name": "FinAid Buddy",
+  "description": "India's #1 FREE Financial Advisor App for Students, Daily Wage Workers & Low-Income Families. Smart budgeting, AI advice, and Indian government schemes.",
+  "requestFramePermissions": ["microphone"]
+}
